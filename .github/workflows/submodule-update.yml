@@ -3,7 +3,7 @@ name: Update Submodule
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 매일 자정에 실행
+    - cron: '5 0 * * *' # 매일 자정에 실행
 
 jobs:
   update:
