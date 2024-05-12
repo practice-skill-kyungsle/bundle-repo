@@ -20,7 +20,7 @@ jobs:
         git config user.email 'soogood97@gmail.com'
 
     - name: Add remote upstream
-      run: git remote add upstream https://github.com/original-owner/original-repository.git
+      run: git remote add upstream https://github.com/practice-skill-kyungsle/bundle-repo.git
 
     - name: Fetch changes from upstream
       run: git fetch upstream
