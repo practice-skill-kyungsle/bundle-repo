@@ -2,7 +2,7 @@ name: Sync with Upstream
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 매일 자정(UTC 기준)에 실행
+    - cron: '15 0 * * *' # 매일 자정(UTC 기준)에 실행
 
 jobs:
   sync:
