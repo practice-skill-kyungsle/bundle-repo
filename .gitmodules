@@ -1,3 +1,12 @@
 [submodule "2021-study"]
 	path = 2021-study
 	url = https://github.com/practice-skill-kyungsle/2021-study.git
+[submodule "2022-study"]
+	path = 2022-study
+	url = https://github.com/practice-skill-kyungsle/2022-study.git
+[submodule "2023-study"]
+	path = 2023-study
+	url = https://github.com/practice-skill-kyungsle/2023-study.git
+[submodule "2024-study"]
+	path = 2024-study
+	url = https://github.com/practice-skill-kyungsle/2024-study.git
