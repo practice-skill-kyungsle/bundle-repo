@@ -10,3 +10,6 @@
 [submodule "2024-study"]
 	path = 2024-study
 	url = https://github.com/practice-skill-kyungsle/2024-study.git
+[submodule "JS_Problem_Solving"]
+	path = JS_Problem_Solving
+	url = https://github.com/practice-skill-kyungsle/JS_Problem_Solving.git
