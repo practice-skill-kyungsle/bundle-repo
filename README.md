@@ -2,10 +2,6 @@
 
 ## 🧪 2024-study
 
-**threejs 강의 수강**
-- threejs를 통한 웹 3D 환경 개발에 관심이 생겨 이 것에 대한 강의를 수강합니다.
-- https://www.youtube.com/watch?v=ZGACJosABBw&list=PLe6NQuuFBu7HqxY10b6gNu6iisT2-rZv-&index=1
-
 **⭐ React DOM Server 공부**
 - React DOM Server와 SSR에 대해 공부하고, React와 express를 이용하여 SSR을 구성해보았습니다. 또한, NextJS가 어떻게 생겨먹은 애인지에 대해 생각해보았습니다.
 
